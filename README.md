@@ -1,6 +1,6 @@
 # 🌱 Lena's Learning Log
 
-매일 매일의 기록
+개발자로서의 성장과 매일의 기록
 
 ## 🕓 4AM_CODE
 
@@ -17,3 +17,9 @@
 - [Git](./Utils/GIT.md)
 - [Command Line](./Utils/CLI.md)
 - [Mindset](./Utils/MINDSET.md)
+
+## 🥳 Projects
+
+- [App release](./Project/app_release.md)
+- [Flutter](./Project/flutter.md)
+- [방통대](./Project/school.md)
