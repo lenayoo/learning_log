@@ -62,3 +62,31 @@ React / Vue / TypeScript 기반으로, 구조와 설계가 잘 되어 있어 코
   - Monorepo 구조 + 모듈 분리 방식 참고
   - 폴더 구조가 확장 가능한 형태로 설계되어 있음
 ```
+
+### ✅ **추천 오픈소스 프로젝트 (초중급 개발자용)**
+
+1. **[TodoMVC (JavaScript 프레임워크별 비교용 투두앱)]**
+   - GitHub: https://github.com/tastejs/todomvc
+   - 프레임워크별 패턴을 비교하며 Vue, React, Angular 구조를 한눈에 볼 수 있어.
+2. [**RealWorld**](https://github.com/gothinkster/realworld)
+   - 실제 블로그 서비스처럼 구현된 풀스택 예제.
+   - 프론트엔드(Vue, React, Svelte 등) + 백엔드(Python, Node 등) 선택 가능.
+   - 👉 레나처럼 프론트와 백을 함께 공부하는 사람에게 완전 딱!
+3. [**Habitica**](https://github.com/HabitRPG/habitica)
+   - RPG처럼 할 일을 관리하는 오픈소스 앱.
+   - 프론트(Vue.js 기반) 구조와 API 설계 모두 훌륭해.
+4. [**Vue.js 공식 코드**](https://github.com/vuejs/core)
+   - Vue 내부 구현을 보기 어려우면, [Vue Router](https://github.com/vuejs/router)나 [Pinia](https://github.com/vuejs/pinia) 같이 작고 단순한 라이브러리부터 읽는 것도 좋아.
+
+---
+
+### 🔍 **오픈소스 코드 읽는 방법 팁**
+
+1. **문서 먼저 읽기 (README + 폴더 구조)**
+   - 구조부터 이해하기. 어떤 파일이 어디서 호출되는지 알면 훨씬 편해.
+2. **작은 기능 단위로 추적하기**
+   - 예: 버튼 클릭 → 어떤 함수 → 어떤 API → 어떤 상태 업데이트?
+3. **코드 실행해보기 (로컬에서)**
+   - 직접 `npm run dev` 등으로 띄워보고, 코드 하나 바꿔보고 반응 보기.
+4. **궁금한 부분은 일시 중단하고 메모**
+   - `이 함수 왜 이렇게 썼지?` → 일단 메모해두고 뒤에 찾아보는 흐름 추천.
