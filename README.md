@@ -2,6 +2,13 @@
 
 개발자로서의 성장과 매일의 기록
 
+## 🥳 Projects
+
+- [App release](./Project/app_release.md)
+- [Flutter](./Project/flutter.md)
+- [Google Cloud Associate](./Project/google_cloud.md)
+- [방통대](./Project/school.md)
+
 ## 🕓 4AM_CODE
 
 - [4AM 로그](./4AM_CODE/logs/2025_05.md)
@@ -17,9 +24,3 @@
 - [Git](./Utils/GIT.md)
 - [Command Line](./Utils/CLI.md)
 - [Mindset](./Utils/MINDSET.md)
-
-## 🥳 Projects
-
-- [App release](./Project/app_release.md)
-- [Flutter](./Project/flutter.md)
-- [방통대](./Project/school.md)
