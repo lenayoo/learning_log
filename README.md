@@ -16,6 +16,7 @@
 
 ## 🗂 Worklog
 
+- [2025년 6월](./worklog/2025-06.md)
 - [2025년 5월](./worklog/2025-05.md)
 - [디버깅 가이드](./worklog/DEBUGGING_GUIDE.md)
 
