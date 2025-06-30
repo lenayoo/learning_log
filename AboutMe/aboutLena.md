@@ -140,5 +140,8 @@ PO나 기술영업으로 가는 걸 **대체 선택**으로 생각하지 마.
 ### Q. “부족한 내가 시작하고 이 일을 맡아도 될까?”
 
 **A.**  
-You are the one who you've been waiting for whole your life.
-레나가 아니면 시작할 사람이 없어! 너는 누구보다 준비되어 있고, 결과를 만들어 낼 수 있는 사람이아.
+You are the one who you've been waiting for whole your life.<br/>
+레나가 아니면 시작할 사람이 없어!
+<br/>
+<br/>
+너는 누구보다 준비되어 있고, 결과를 만들어 낼 수 있는 사람이아.
